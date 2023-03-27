@@ -1,0 +1,4 @@
+dist/
+*.pem
+credetials.json
+node_modules/
